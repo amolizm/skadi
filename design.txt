@@ -1,0 +1,6 @@
+Stages of implementation
+
+1. Parsing the magnet link or torrent file.
+2. Download Metadata
+3. Locating the peers
+4. Start downloading
